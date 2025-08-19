@@ -22,26 +22,6 @@ We collect the minimum data needed to provide the service.
 - Messages and attachments exchanged in-app
 - Support requests and feedback
 
-### c) Device & App Analytics
-- Device model, OS version, app version
-- IP address, coarse location (country/region)
-- Crash logs, performance metrics, event analytics
-
-### d) Payments
-- Transaction metadata (amount, status, timestamps)  
-- **We do not store full card details**; payments are processed by our payment provider.
-
----
-
-## 2) Why We Collect It (Purposes)
-
-- Provide, maintain, and improve app features
-- Match freelancers and clients; enable proposals and contracts
-- Facilitate messaging and file sharing
-- Process payments and prevent fraud
-- Enforce Terms and protect user safety
-- Debug, fix crashes, and analyze performance
-- Comply with legal obligations
 
 ---
 
@@ -106,23 +86,6 @@ Hirely is not intended for children under **16**. We do not knowingly collect da
 
 ---
 
-## 10) Third-Party Services
-
-Hirely integrates third-party services. Their privacy policies apply to their processing:
-
-- **Google/Firebase** (Auth, Firestore/Database, Cloud Storage, Crashlytics, Messaging, Analytics)  
-  https://policies.google.com/privacy  
-  https://firebase.google.com/support/privacy
-
-- **Payment Processor** (e.g., Stripe or other)  
-  https://stripe.com/privacy  *(replace with your provider if different)*
-
-- **Google Play Services / Google APIs**  
-  https://policies.google.com/privacy
-
-> We only share what’s necessary to provide the service. Review these policies to understand their practices.
-
----
 
 ## 11) Cookies & Similar Technologies
 
@@ -136,18 +99,7 @@ With your permission, we may send push notifications and service emails (e.g., j
 
 ---
 
-## 13) Data Safety Summary (Google Play)
 
-- **Collected:** account info, profile content, app interactions, diagnostics, device identifiers
-- **Optional:** profile photo, documents, phone number
-- **Shared:** with service providers for hosting, analytics, messaging, payments
-- **Purpose:** app functionality, account management, fraud prevention, analytics, communications
-- **Encryption in transit:** Yes  
-- **Data deletion request:** Supported (see §8)
-
-*(Ensure your Google Play Data Safety form matches this policy.)*
-
----
 
 ## 14) Changes to This Policy
 
